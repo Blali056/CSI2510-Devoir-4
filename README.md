@@ -1,4 +1,4 @@
-# ProjetSEGApp
+# CSI 2510 - Devoir 4
 
 **Author :**
 
