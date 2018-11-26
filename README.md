@@ -1,1 +1,9 @@
-# CSI2510-Devoir-4
+# ProjetSEGApp
+
+**Author :**
+
+- Brian Laliberté - 300023551
+
+
+
+
